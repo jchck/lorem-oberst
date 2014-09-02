@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Lorem Oberst
-Version: 0.1.0
+Version: 1.0.0
 Plugin URI: http://justinchick.com
 Description: A Wordpress plugin for all your Conor Oberst dummy text needs.
 Author: Justin Chick

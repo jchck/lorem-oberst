@@ -20,3 +20,7 @@ Once activated simply use Wordpress shortcodes in the WYSIWYG to generate song l
 ## License
 
 [WTFPL](http://www.wtfpl.net)
+
+## Version 
+
+1.0.0
