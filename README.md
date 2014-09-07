@@ -15,6 +15,7 @@ Once activated simply use Wordpress shortcodes in the WYSIWYG to generate song l
 * Lenders in the Temple
 * Lover I don't have to Love
 * Lua
+* Milk Thistle
 * No one Would Riot for Less
 
 ## License
