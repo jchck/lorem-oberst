@@ -27,3 +27,5 @@ require_once( plugin_dir_path( __FILE__ ). '/lyrics/gold-mine-gutted.php');
 require_once( plugin_dir_path( __FILE__ ). '/lyrics/lover-dont-have-love.php');
 
 require_once( plugin_dir_path( __FILE__ ). '/lyrics/milk-thistle.php');
+
+require_once( plugin_dir_path( __FILE__ ). '/lyrics/nowhere-now.php');

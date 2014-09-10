@@ -17,6 +17,7 @@ Once activated simply use Wordpress shortcodes in the WYSIWYG to generate song l
 * Lua
 * Milk Thistle
 * No one Would Riot for Less
+* We Are Nowhere And It's Now
 
 ## License
 
@@ -24,4 +25,4 @@ Once activated simply use Wordpress shortcodes in the WYSIWYG to generate song l
 
 ## Version 
 
-1.0.0
+1.1.0
