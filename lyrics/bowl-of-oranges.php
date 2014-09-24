@@ -23,7 +23,7 @@ class BowlOfOranges {
 	 	$text = explode(' ', $lyrics);
 	 	$text = implode(' ', $text);
 
-		 return $text;
+		return $text;
 	}
 }
 

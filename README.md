@@ -18,6 +18,7 @@ Once activated simply use Wordpress shortcodes in the WYSIWYG to generate song l
 * Milk Thistle
 * No one Would Riot for Less
 * We Are Nowhere And It's Now
+* Poison Oak
 
 ## License
 
