@@ -24,6 +24,8 @@ Once activated simply use Wordpress shortcodes in the WYSIWYG to generate song l
 
 [WTFPL](http://www.wtfpl.net)
 
+Are you serious? Yes.
+
 ## Version 
 
 1.1.0
